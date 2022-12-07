@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/roshan_waa" target="blank"><img src="https://img.shields.io/twitter/follow/roshan_waa?logo=twitter&style=for-the-badge" alt="roshan_waa" /></a> </p>
 
-- 🔭 The React.JS framework is one of the things I am learning at the moment **Building a Food Order App**
-
 - 🌱 I’m currently learning **React.JS**
 
 - 👨‍💻 All of my projects are available at [https://roshanwaa.github.io/Port-Folio/](https://roshanwaa.github.io/Port-Folio/)
