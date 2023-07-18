@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/roshan_waa" target="blank"><img src="https://img.shields.io/twitter/follow/roshan_waa?logo=twitter&style=for-the-badge" alt="roshan_waa" /></a> </p>
 
-- 🌱 I’m currently learning **React.JS**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://roshanwaa.github.io/Port-Folio/](https://roshanwaa.github.io/Port-Folio/)
 
-- 💬 Ask me about **React.JS, JavaScript, JAVA, HTML, CSS.**
+- 💬 Ask me about **React.JS, JavaScript, JAVA, HTML, CSS, Node.Js, Express.Js, Mongo, Data Structure, Algorithm**
 
 - 📫 How to reach me **kumroshan120@gmail.com**
 
