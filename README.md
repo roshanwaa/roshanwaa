@@ -1,4 +1,4 @@
-[![MasterHead](https://www.trio.dev/hubfs/Imported_Blog_Media/dbc631c76245baabe08c31d016a94de2-2.jpg)](https://www.linkedin.com/in/roshanwaa/)
+
 <h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
 <h3 align="center">Full Stack Web Developer</h3>
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
