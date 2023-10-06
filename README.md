@@ -7,12 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/roshan_waa" target="blank"><img src="https://img.shields.io/twitter/follow/roshan_waa?logo=twitter&style=for-the-badge" alt="roshan_waa" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Back-End (Express.js, MongoDB, SQL, and etc.**
 
 - 👨‍💻 All of my projects are available at [https://roshanwaa.github.io/Port-Folio/](https://roshanwaa.github.io/Port-Folio/)
 
-- 💬 Ask me about **React.JS, JavaScript, JAVA, HTML, CSS, Node.Js, Express.Js, Mongo, Data Structure, Algorithm**
+- 💬 Ask me about **React.JS, JavaScript, JAVA, HTML, CSS, Node.Js, Express.Js, Mongo, Data Structure, Algorithm, and etc.**
 
 - 📫 How to reach me **kumroshan120@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/roshan-kumar-12b459197/](https://www.linkedin.com/in/roshan-kumar-12b459197/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/roshan-kumar-12b459197/](https://www.linkedin.com/in/roshanwaa/)
